@@ -60,7 +60,7 @@
             	$mail->Hostname = 'smtp.gmail.com';  //gmail SMTP server
             	$mail->SMTPAuth = true;
             	$mail->Username = 'promisysapp@gmail.com';   //username
-            	$mail->Password = '3949ba59abbe';   //password
+            	$mail->Password = 'xxxxxxxxxxxxxx';   //password
             	$mail->SMTPSecure = 'ssl';
             	$mail->Port = 465;                    //smtp 
                 
@@ -91,7 +91,7 @@
             	$mail->Hostname = 'smtp.gmail.com';  //gmail SMTP server
             	$mail->SMTPAuth = true;
             	$mail->Username = 'promisysapp@gmail.com';   //username
-            	$mail->Password = '3949ba59abbe';   //password
+            	$mail->Password = 'xxxxxxxxxxxxxx';   //password
             	$mail->SMTPSecure = 'ssl';
             	$mail->Port = 465;                    //smtp 
                 
@@ -123,7 +123,7 @@
             	$mail->Hostname = 'smtp.gmail.com';  //gmail SMTP server
             	$mail->SMTPAuth = true;
             	$mail->Username = 'promisysapp@gmail.com';   //username
-            	$mail->Password = '3949ba59abbe';   //password
+            	$mail->Password = 'xxxxxxxxxxxxxx';   //password
             	$mail->SMTPSecure = 'ssl';
             	$mail->Port = 465;                    //smtp 
                 

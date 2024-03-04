@@ -32,7 +32,7 @@ $mail->SMTPAuth = true;
             	$mail->Hostname = 'smtp.gmail.com';  //gmail SMTP server
             	$mail->SMTPAuth = true;
             	$mail->Username = 'promisysapp@gmail.com';   //username
-            	$mail->Password = '3949ba59abbe';   //password
+            	$mail->Password = 'xxxxxxxxxxxxxx';   //password
             	//$mail->SMTPSecure = 'tls';
             	$mail->Port = 587;                    //smtp 
                 
@@ -60,7 +60,7 @@ $mail = new PHPMailer(true); //Argument true in constructor enables exceptions
             	$mail->Hostname = 'smtp.gmail.com';  //gmail SMTP server
             	$mail->SMTPAuth = true;
             	$mail->Username = 'promisysapp@gmail.com';   //username
-            	$mail->Password = '3949ba59abbe';   //password
+            	$mail->Password = 'xxxxxxxxxxxxxx';   //password
             	$mail->SMTPSecure = 'ssl';
             	$mail->Port = 587;                    //smtp 
 
