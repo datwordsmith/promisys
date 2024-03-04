@@ -1,0 +1,18 @@
+[16-Jan-2020 14:59:03 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[16-Jan-2020 14:59:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/fetchviewclient.php on line 267
+[16-Jan-2020 14:59:03 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, null given in /home/hallprom/public_html/officer/functions/fetchviewclient.php on line 267
+[20-Jan-2020 08:43:17 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[20-Jan-2020 08:43:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:43:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:43:28 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[20-Jan-2020 08:43:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:43:28 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:43:45 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[20-Jan-2020 08:43:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:43:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:44:08 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[20-Jan-2020 08:44:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:44:08 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:45:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/hallprom/public_html/officer/connector/connect.php on line 6
+[20-Jan-2020 08:45:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14
+[20-Jan-2020 08:45:33 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/hallprom/public_html/officer/functions/insertdata.php on line 14

@@ -1,0 +1,6 @@
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 139
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 142
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 145
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 152
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 156
+[07-Aug-2019 16:21:52 UTC] PHP Warning:  mysqli_fetch_object() expects parameter 1 to be mysqli_result, boolean given in /home/hallprom/public_html/accounts/functions/fetchpayment.php on line 194
